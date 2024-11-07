@@ -1,4 +1,9 @@
+import { Inter } from 'next/font/google'
 import localFont from "next/font/local";
+
+export const interLight = Inter({ subsets: ['latin'], weight: ['300']});
+export const interRegular = Inter({ subsets: ['latin'], weight: ['500']});
+export const interBold = Inter({ subsets: ['latin'], weight: ['900']});
 
 export const geistSans = localFont({
   src: "./GeistVF.woff",

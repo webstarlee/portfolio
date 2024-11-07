@@ -31,10 +31,10 @@ export default function Header() {
   };
 
   return (
-    <header className="absolute backdrop-blur dark:border-slate-50/[0.06] lg:border-b inset-x-0 top-0 z-50">
+    <header className="fixed backdrop-blur dark:border-slate-50/[0.06] lg:border-b inset-x-0 top-0 z-50">
       <nav
         aria-label="Global"
-        className="flex items-center max-w-7xl mx-auto justify-between p-4 lg:px-8"
+        className="flex items-center max-w-7xl mx-auto justify-between p-6 lg:px-8"
       >
         <div className="flex lg:flex-1">
           <a
