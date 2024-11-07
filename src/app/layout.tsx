@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import Header from "@/app/components/header";
 import { RootProvider } from "@/app/hooks/RootContext";
 import { geistSans, geistMono } from "@/app/fonts/fonts";
@@ -22,6 +23,7 @@ export default function RootLayout({
         <RootProvider>
           <Header />
           {children}
+          <SpeedInsights />
         </RootProvider>
       </body>
     </html>
