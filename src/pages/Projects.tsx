@@ -1,13 +1,6 @@
 "use client";
 
-import Link from "next/link";
-import { interLight, interRegular } from "@/app/fonts/fonts";
-import { FaEnvelope } from "react-icons/fa6";
-import { FaLinkedinIn } from "react-icons/fa";
-import { FaGithub } from "react-icons/fa6";
-import { FaDiscord } from "react-icons/fa6";
-import { FaTelegramPlane } from "react-icons/fa";
-import { HiOutlineArrowLongDown } from "react-icons/hi2";
+import { interLight } from "@/app/fonts/fonts";
 
 export default function Projects() {
   return (
