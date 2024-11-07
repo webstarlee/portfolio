@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { interLight, interRegular } from "@/app/fonts/fonts";
 import { FaEnvelope } from "react-icons/fa6";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -55,7 +56,7 @@ export default function Home() {
           </div>
           <div className="text-start min-w-full">
             <h1
-              className={`${interRegular.className} text-transparent bg-clip-text inline-block bg-gradient-to-r from-[#9845E8] via-[#33D2FF] to-[#DD5789] mb-8 text-5xl lg:text-8xl`}
+              className={`${interRegular.className} -ml-2 text-transparent bg-clip-text inline-block bg-gradient-to-r from-[#9845E8] via-[#33D2FF] to-[#DD5789] mb-8 text-5xl lg:text-8xl`}
             >
               Daniel Lee
             </h1>
@@ -76,12 +77,12 @@ export default function Home() {
               and decentralized finance (DeFi) protocols, with intuitive,
               user-friendly interfaces.
             </p>
-            <a
+            <Link
               href="#"
               className={`${interLight.className} text-sm text-justify text-black dark:text-white`}
             >
               Read More <span aria-hidden="true" className="animate-bounce">→</span>
-            </a>
+            </Link>
           </div>
         </div>
 

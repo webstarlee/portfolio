@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import Header from "@/app/components/header";
 import { RootProvider } from "@/app/hooks/RootContext";
 import { geistSans, geistMono } from "@/app/fonts/fonts";
