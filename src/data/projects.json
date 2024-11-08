@@ -1,0 +1,105 @@
+[
+    {
+        "title": "Fullstack developer",
+        "company": "HEHE",
+        "images": [
+            "portfolios/hehe/1.jpg",
+            "portfolios/hehe/2.jpg",
+            "portfolios/hehe/3.jpg",
+            "portfolios/hehe/4.jpg"
+        ],
+        "description": "Hehe Protocol offers decentralized finance access via smart contracts, fostering global connectivity and unlocking vast opportunities in a new economic ecosystem.",
+        "role": [
+            "Assisted other developers with coding, troubleshooting and debugging.",
+            "Managed front-end aspects of development process with Next.js, Material UI.",
+            "Managed Blockchain web3 integration with Tokens"
+        ],
+        "github": "",
+        "url": "https://hehe.to",
+        "skills": ["Next.js", "Web3.js", "Typescript"]
+    },
+    {
+        "title": "Frontend developer",
+        "company": "Mugs",
+        "images": [
+            "portfolios/mugs/1.jpg",
+            "portfolios/mugs/2.jpg",
+            "portfolios/mugs/3.jpg",
+            "portfolios/mugs/4.jpg",
+            "portfolios/mugs/5.jpg",
+            "portfolios/mugs/6.jpg",
+            "portfolios/mugs/7.jpg"
+        ],
+        "description": "Discover the Mugs concept, Cantine Hype in the heart of Saint-Raphaël. Here everything is homemade, ideal for your after-work brunches Let’s go",
+        "role": [
+            "Development Static website from scratch with just HTML, SVG.",
+            "Maintain website with update."
+        ],
+        "github": "",
+        "url": "https://le-mugs.com",
+        "skills": ["Html", "Javascript", "SVG"]
+    },
+    {
+        "title": "Fullstack developer",
+        "company": "Defireturn",
+        "images": [
+            "portfolios/defireturn/1.jpg",
+            "portfolios/defireturn/2.jpg",
+            "portfolios/defireturn/3.jpg"
+        ],
+        "description": "DeFi Returns aims to bring transparency to DeFi and provide users with comprehensive, reliable and up-to-date information on various DeFi strategies and protocols. Our platform allows users to easily compare and analyze the performance of different strategies, bringing the most reliable data source for historical yield on DeFi, helping them make more informed decisions when investing in the ecosystem.",
+        "role": [
+            "Built professional relationships with team and clients to help speed communication and attain project results.",
+            "Produced high-quality code artifacts that conformed to standards and best practices.",
+            "Evaluated alternative approaches and presented recommendations to teams and unit leadership.",
+            "Engaged with product management for requirements analysis and clarifications.",
+            "Detect Compounding tokens from rich wallet address."
+        ],
+        "github": "",
+        "url": "https://defireturns.com",
+        "skills": ["React.js", "Web3.js", "Solidity"]
+    },
+    {
+        "title": "Frontend developer",
+        "company": "Paywho",
+        "images": [
+            "portfolios/paywho/1.jpg",
+            "portfolios/paywho/2.jpg",
+            "portfolios/paywho/3.jpg"
+        ],
+        "description": "We are here to ensure seamless accessibility of our services to all our clients, regardless of their unique needs or preferences. With our diverse range of products, we empower our clients to unlock the full potential of digital fund transfers and move their money wherever, whenever.",
+        "role": [
+            "Assisted other developers with coding, troubleshooting and debugging.",
+            "Managed front-end aspects of development process with Angular.js, Sass, Tailwind.",
+            "Completed code debugging and implemented fixes to resolve problems based on priority system.",
+            "Combined root-level authentication and authorization technologies with ongoing system design to harden finished solutions."
+        ],
+        "github": "",
+        "url": "https://www.paywho.com/",
+        "skills": ["Angular.js", "Sass", "Tailwind Css"]
+    },
+    {
+        "title": "FullStack developer",
+        "company": "Rolzo",
+        "images": [
+            "portfolios/rolzo/1.jpg",
+            "portfolios/rolzo/2.jpg",
+            "portfolios/rolzo/3.jpg",
+            "portfolios/rolzo/4.jpg",
+            "portfolios/rolzo/5.jpg",
+            "portfolios/rolzo/6.jpg",
+            "portfolios/rolzo/7.jpg",
+            "portfolios/rolzo/8.jpg"
+        ],
+        "description": "ROLZO is where the most discerning travellers access exclusive car services at any time, anywhere in the world.",
+        "role": [
+            "Assisted other developers with coding, troubleshooting and debugging.",
+            "Managed front-end aspects of development process with Angular.js, Sass, Tailwind.",
+            "Completed code debugging and implemented fixes to resolve problems based on priority system.",
+            "Combined root-level authentication and authorization technologies with ongoing system design to harden finished solutions."
+        ],
+        "github": "",
+        "url": "https://www.rolzo.com/",
+        "skills": ["Angular.js", "Sass", "Tailwind Css"]
+    }
+]

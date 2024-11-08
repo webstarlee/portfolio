@@ -8,6 +8,10 @@ export default function Portfolio() {
   const { theme } = useRoot();
   return (
     <div className="relative min-h-screen isolate">
+      
+      <Home />
+      <Projects />
+
       {theme !== "dark" && (
         <div
           aria-hidden="true"
@@ -36,8 +40,6 @@ export default function Portfolio() {
           />
         </div>
       )}
-      <Home />
-      <Projects />
     </div>
   );
 }
